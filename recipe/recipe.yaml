@@ -1,5 +1,5 @@
 context:
-  version: 2.7.0
+  version: "2.7.1"
 
 package:
   name: mdcat
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/swsnr/mdcat/archive/mdcat-${{ version }}.tar.gz
-  sha256: e372a82291a139f95d77c12325a2f595f47f6d6b4c2de70e50ab2117e975734f
+  sha256: 460024d9795eb578be09ec2284af243627721151aa001aae6ffb5589380b2ba1
 
 build:
   number: 0
