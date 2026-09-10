@@ -1,5 +1,5 @@
 context:
-  version: "2.16.0"
+  version: "2.16.1"
 
 package:
   name: mdcat
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/BIRSAx2/mdcat/archive/mdcat-${{ version }}.tar.gz
-  sha256: 98d782402aa9dba6984e856351bb46ddb93cee7784776b0c7adf62c2f6a3b89d
+  sha256: 8b47467dc5f9367409ba07ad20e89eb1ac09700748394b917cc3d4184a156748
 
 build:
   number: 0
